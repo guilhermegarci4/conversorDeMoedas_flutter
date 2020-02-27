@@ -1,6 +1,10 @@
 # conversor_de_moedas
 
-A new Flutter project.
+Aplicativo para de estudo do curso 'Criação de Apps Android e iOS com Flutter - Crie 16 Apps'.
+
+Aplicativo tem a função de converter os valores com tempo real via API dos valores REAL, DOLAR e EURO simultâneo.
+
+Desenvolvido em: Flutter
 
 ## Getting Started
 
